@@ -24,3 +24,10 @@ laurdan. Also it shows the pseudocolor image throgh the spectral phase coloring
 circle.
 
 ![eq3](https://github.com/ubaimaging/LaurdanCilia/blob/main/figures/2-Laurdan%20membrana%2028ch.jpg)
+
+
+## Authors
+
+- These algorithm has been written by Alñex VALLMITJANA and the repository has been 
+written by Bruno Schuty at the Advanced Bioimaging Unit. 
+
