@@ -28,6 +28,5 @@ circle.
 
 ## Authors
 
-- These algorithm has been written by Alex VALLMITJANA and the repository has been 
-written by Bruno Schuty at the Advanced Bioimaging Unit. 
+- Alex VALLMITJANA and Bruno Schuty at the Advanced Bioimaging Unit. 
 
