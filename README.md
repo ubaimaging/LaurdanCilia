@@ -28,5 +28,5 @@ circle.
 
 ## Authors
 
-- Alex VALLMITJANA and Bruno SCHUTY at the Advanced Bioimaging Unit. 
+- Alex VALLMITJANA at the Advanced Bioimaging Unit. 
 
